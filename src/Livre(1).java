@@ -5,4 +5,6 @@ public class Livre extends Document {
 		super(ISBN, EAN, titre, editeur, datePublication, auteur, type, nbTotalExemplaire);
 	
 	}
+
+
 }
